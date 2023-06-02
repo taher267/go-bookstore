@@ -1,0 +1,12 @@
+{
+  "name": "go-bookstore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/taher267/go-bookstore.git",
+  "author": "ABU TAHER <abutaher267@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "go run cmd/main/main.go",
+    "build": "go build ./cmd/main/main.go"
+  }
+}
